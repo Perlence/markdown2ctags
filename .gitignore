@@ -1,4 +1,5 @@
 *.pyc
-md2ctags.egg-info
+markdown2ctags.egg-info
 dist
 build
+py27
